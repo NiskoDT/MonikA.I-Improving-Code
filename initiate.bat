@@ -1,8 +1,5 @@
-@ECHO off
-
-@REM TODO based on priority
-@REM *Add option for running setup.gpu
-@REM *Add option for using custom python libs, basically no need to use the zipped python library
+@echo off
+@REM ? Final file after Testing Commands.bat file
 
 :start
 ECHO.
